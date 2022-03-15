@@ -1,0 +1,44 @@
+*,
+*::before,
+*::after {
+   box-sizing: border-box;
+}
+*:focus:not(:focus-visible) {
+      outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   padding: 0;
+   margin: 0;
+}
+ul, ol {
+   padding-left: 0;
+}
+
+html,
+body {
+   font-weight: normal;
+   scroll-behavior: smooth;
+   height: 100%;
+}
+
+body {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+h1 {
+   color: chocolate;
+   text-align: center;
+}
+.container {
+   width: 1200px;
+   margin: 0 auto;
+}
+.nav__item {
+   font-size: 20px;
+}
