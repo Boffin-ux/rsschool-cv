@@ -62,3 +62,8 @@ more examples: [GitHub](https://github.com/Boffin-ux)
   - JavaScript (learn.javascript.ru)
   - Сourse "Web development for beginners: HTML and CSS" (stepik.org)
   - Сourse "JavaScript 19.0" (Glo-Academy)
+
+## Languages
+
+- Russian: native
+- English: A1 - A2
