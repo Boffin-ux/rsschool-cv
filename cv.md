@@ -24,13 +24,13 @@ I have been fond of IT since school, I have always been interested in how everyt
 
 ## Code Example
 
-```
-const func = value => {
-   return typeof value;
-};
-```
+[Disemvowel Trolls KATA from CODEWARS](https://www.codewars.com/kata/52fba66badcd10859f00097e): ...Your task is to write a function that takes a string and return a new string with all vowels removed...
 
-more examples: [GitHub](https://github.com/Boffin-ux)
+```
+function disemvowel(str) {
+  return str.replace(/[aeiou]/gi, '');
+}
+```
 
 ## Projects
 
